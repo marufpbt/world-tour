@@ -1,0 +1,11 @@
+#countriesList{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 20px;
+}
+.country{
+	background: grey;
+	border: 1px solid cyan;
+	border-radius: 8px;
+	text-align: center;
+}
